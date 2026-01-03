@@ -1,6 +1,8 @@
 🚦 Ethiopian Traffic Congestion Predictor
 
+
 [![Open In Colab](https://colab.research.google.com/drive/1RhTE0ZDI6gBq__FnUD6IZbcv8nqFdnX7?usp=sharing)
+
 
 
 ## 📋 Project Overview
